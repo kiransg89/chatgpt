@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/chatgpt" mode="merge"/>
+    <filter root="/content/chatgpt" mode="merge"/>
+    <filter root="/content/dam/chatgpt" mode="merge">
+        <exclude pattern="/content/dam/chatgpt(/.*)?"/>
+        <include pattern="/content/dam/chatgpt/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/chatgpt/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/chatgpt" mode="merge"/>
+</workspaceFilter>
