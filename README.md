@@ -6,5 +6,5 @@ ChatGPT is a large language model trained by OpenAI based on the GPT (Generative
 
 To address challenges, there is a need for a solution that can provide real-time, contextual assistance to authors during the content creation process. One potential solution is to integrate ChatGPT, an AI-powered chatbot, with Adobe Experience Manager (AEM), a leading content management system. By leveraging ChatGPT's natural language processing capabilities, authors can receive instant and personalized guidance, support, and feedback throughout the content creation process, leading to higher-quality content creation and greater efficiency. However, the effectiveness of this approach will depend on how well the ChatGPT is trained, integrated, and adopted by the users.
 
-Please visit my blog for more details: 
+Please visit my blog for more details: https://kiransg.com/2023/03/29/empowering-content-authors-with-ai-using-chatgpt-with-aem-for-enhanced-assistance/
 
